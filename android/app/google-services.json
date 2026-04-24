@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "371039023388",
+    "project_id": "iai-india",
+    "storage_bucket": "iai-india.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371039023388:android:1398e7e95b3b07f0c3cad9",
+        "android_client_info": {
+          "package_name": "com.tech.iaiindia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv1t4hxi3FDqm37nEqZa553DYENVjvasM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

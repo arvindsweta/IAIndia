@@ -1,0 +1,60 @@
+com.tech.iaiindia
+.app-jetified-window-java-1.2.0-0 /Users/arvindpandey/.gradle/caches/transforms-4/1550a722d7d13f654e2766690832e82a/transformed/jetified-window-java-1.2.0/res
+com.tech.iaiindia
+.app-lifecycle-livedata-2.7.0-1 /Users/arvindpandey/.gradle/caches/transforms-4/3e58530485b053d5b6b6af4d36f013fd/transformed/lifecycle-livedata-2.7.0/res
+com.tech.iaiindia
+.app-fragment-1.7.1-2 /Users/arvindpandey/.gradle/caches/transforms-4/4241611c57240e5cb2ad920ae25f404e/transformed/fragment-1.7.1/res
+com.tech.iaiindia
+.app-core-runtime-2.2.0-3 /Users/arvindpandey/.gradle/caches/transforms-4/43b9b4e4dd97be95dd0d93c537630362/transformed/core-runtime-2.2.0/res
+com.tech.iaiindia
+.app-jetified-profileinstaller-1.3.1-4 /Users/arvindpandey/.gradle/caches/transforms-4/5b8824c32fb87e3f13d57770960073cd/transformed/jetified-profileinstaller-1.3.1/res
+com.tech.iaiindia
+.app-jetified-tracing-1.2.0-5 /Users/arvindpandey/.gradle/caches/transforms-4/643122e34f1f707eb39c6a577403b864/transformed/jetified-tracing-1.2.0/res
+com.tech.iaiindia
+.app-core-1.13.1-6 /Users/arvindpandey/.gradle/caches/transforms-4/67fd01507c125d58f17ed0dd909b592c/transformed/core-1.13.1/res
+com.tech.iaiindia
+.app-jetified-startup-runtime-1.1.1-7 /Users/arvindpandey/.gradle/caches/transforms-4/731181e99fd3c0ca5348b09c2345d928/transformed/jetified-startup-runtime-1.1.1/res
+com.tech.iaiindia
+.app-jetified-window-1.2.0-8 /Users/arvindpandey/.gradle/caches/transforms-4/78bede2aa4be73f985298b55f5350712/transformed/jetified-window-1.2.0/res
+com.tech.iaiindia
+.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-9 /Users/arvindpandey/.gradle/caches/transforms-4/796c915a8dc300cf53c7f80e69263dfc/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+com.tech.iaiindia
+.app-jetified-lifecycle-livedata-core-ktx-2.7.0-10 /Users/arvindpandey/.gradle/caches/transforms-4/8cefa612196869921f96277c3cbc4e77/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+com.tech.iaiindia
+.app-jetified-annotation-experimental-1.4.0-11 /Users/arvindpandey/.gradle/caches/transforms-4/92dd4437c9cbb0463255b36985792ed0/transformed/jetified-annotation-experimental-1.4.0/res
+com.tech.iaiindia
+.app-jetified-core-ktx-1.13.1-12 /Users/arvindpandey/.gradle/caches/transforms-4/9a673b40d4e348a41dc6294635f3dad6/transformed/jetified-core-ktx-1.13.1/res
+com.tech.iaiindia
+.app-jetified-savedstate-1.2.1-13 /Users/arvindpandey/.gradle/caches/transforms-4/9c0a78e6a3ede7384279c5aed9ab347e/transformed/jetified-savedstate-1.2.1/res
+com.tech.iaiindia
+.app-jetified-core-1.0.0-14 /Users/arvindpandey/.gradle/caches/transforms-4/c14cf6a2c4549a3eecd40194b1ea59b2/transformed/jetified-core-1.0.0/res
+com.tech.iaiindia
+.app-lifecycle-livedata-core-2.7.0-15 /Users/arvindpandey/.gradle/caches/transforms-4/cf8a62d2def24ec7879373e9ff661cc0/transformed/lifecycle-livedata-core-2.7.0/res
+com.tech.iaiindia
+.app-jetified-lifecycle-process-2.7.0-16 /Users/arvindpandey/.gradle/caches/transforms-4/d95ba8894759a5032705775b177c76b5/transformed/jetified-lifecycle-process-2.7.0/res
+com.tech.iaiindia
+.app-lifecycle-viewmodel-2.7.0-17 /Users/arvindpandey/.gradle/caches/transforms-4/df24963475231dc80de63639bb1ba3f1/transformed/lifecycle-viewmodel-2.7.0/res
+com.tech.iaiindia
+.app-jetified-activity-1.8.1-18 /Users/arvindpandey/.gradle/caches/transforms-4/e0450177f94ce674420078e4908706c3/transformed/jetified-activity-1.8.1/res
+com.tech.iaiindia
+.app-lifecycle-runtime-2.7.0-19 /Users/arvindpandey/.gradle/caches/transforms-4/e40bc84687ae939b077809fa10a677ad/transformed/lifecycle-runtime-2.7.0/res
+com.tech.iaiindia
+.app-packaged_res-20 /Users/arvindpandey/.pub-cache/hosted/pub.dev/flutter_secure_storage-10.0.0/android/build/intermediates/packaged_res/release
+com.tech.iaiindia
+.app-packaged_res-21 /Users/arvindpandey/.pub-cache/hosted/pub.dev/path_provider_android-2.2.19/android/build/intermediates/packaged_res/release
+com.tech.iaiindia
+.app-pngs-22 /Users/arvindpandey/Desktop/India/myfirstdemo/android/app/build/generated/res/pngs/release
+com.tech.iaiindia
+.app-resValues-23 /Users/arvindpandey/Desktop/India/myfirstdemo/android/app/build/generated/res/resValues/release
+com.tech.iaiindia
+.app-packageReleaseResources-24 /Users/arvindpandey/Desktop/India/myfirstdemo/android/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.tech.iaiindia
+.app-packageReleaseResources-25 /Users/arvindpandey/Desktop/India/myfirstdemo/android/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.tech.iaiindia
+.app-merged-not-compiled-resources-26 /Users/arvindpandey/Desktop/India/myfirstdemo/android/app/build/intermediates/merged-not-compiled-resources/release
+com.tech.iaiindia
+.app-merged_res-27 /Users/arvindpandey/Desktop/India/myfirstdemo/android/app/build/intermediates/merged_res/release
+com.tech.iaiindia
+.app-main-28 /Users/arvindpandey/Desktop/India/myfirstdemo/android/app/src/main/res
+com.tech.iaiindia
+.app-release-29 /Users/arvindpandey/Desktop/India/myfirstdemo/android/app/src/release/res

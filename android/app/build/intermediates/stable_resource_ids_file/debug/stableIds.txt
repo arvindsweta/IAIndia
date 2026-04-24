@@ -1,0 +1,456 @@
+com.tech.iaiindia
+:styleable/SplitPlaceholderRule = 0x7f0d000c
+com.tech.iaiindia
+:styleable/SplitPairRule = 0x7f0d000b
+com.tech.iaiindia
+:styleable/GradientColorItem = 0x7f0d0009
+com.tech.iaiindia
+:styleable/FontFamilyFont = 0x7f0d0005
+com.tech.iaiindia
+:styleable/Capability = 0x7f0d0002
+com.tech.iaiindia
+:style/Widget.Compat.NotificationActionText = 0x7f0c0008
+com.tech.iaiindia
+:style/TextAppearance.Compat.Notification.Time = 0x7f0c0005
+com.tech.iaiindia
+:style/TextAppearance.Compat.Notification.Line2 = 0x7f0c0004
+com.tech.iaiindia
+:style/NormalTheme = 0x7f0c0001
+com.tech.iaiindia
+:style/LaunchTheme = 0x7f0c0000
+com.tech.iaiindia
+:style/TextAppearance.Compat.Notification.Info = 0x7f0c0003
+com.tech.iaiindia
+:string/status_bar_notification_info_overflow = 0x7f0b0008
+com.tech.iaiindia
+:string/call_notification_screening_text = 0x7f0b0007
+com.tech.iaiindia
+:string/call_notification_ongoing_text = 0x7f0b0006
+com.tech.iaiindia
+:string/call_notification_answer_video_action = 0x7f0b0002
+com.tech.iaiindia
+:string/call_notification_answer_action = 0x7f0b0001
+com.tech.iaiindia
+:dimen/notification_action_icon_size = 0x7f050007
+com.tech.iaiindia
+:id/accessibility_custom_action_11 = 0x7f070004
+com.tech.iaiindia
+:layout/notification_template_part_chronometer = 0x7f090007
+com.tech.iaiindia
+:layout/notification_template_icon_group = 0x7f090006
+com.tech.iaiindia
+:string/call_notification_hang_up_action = 0x7f0b0004
+com.tech.iaiindia
+:attr/lStar = 0x7f030014
+com.tech.iaiindia
+:layout/notification_template_custom_big = 0x7f090005
+com.tech.iaiindia
+:id/visible_removing_fragment_view_tag = 0x7f07005c
+com.tech.iaiindia
+:styleable/ActivityFilter = 0x7f0d0000
+com.tech.iaiindia
+:id/view_tree_view_model_store_owner = 0x7f07005b
+com.tech.iaiindia
+:id/view_tree_saved_state_registry_owner = 0x7f07005a
+com.tech.iaiindia
+:id/tag_accessibility_actions = 0x7f070046
+com.tech.iaiindia
+:id/view_tree_on_back_pressed_dispatcher_owner = 0x7f070059
+com.tech.iaiindia
+:id/text2 = 0x7f070054
+com.tech.iaiindia
+:id/text = 0x7f070053
+com.tech.iaiindia
+:id/accessibility_custom_action_1 = 0x7f070002
+com.tech.iaiindia
+:id/tag_unhandled_key_event_manager = 0x7f070050
+com.tech.iaiindia
+:id/tag_transition_group = 0x7f07004f
+com.tech.iaiindia
+:animator/fragment_fade_enter = 0x7f020002
+com.tech.iaiindia
+:id/tag_on_receive_content_mime_types = 0x7f07004c
+com.tech.iaiindia
+:layout/custom_dialog = 0x7f090000
+com.tech.iaiindia
+:id/accessibility_custom_action_25 = 0x7f070013
+com.tech.iaiindia
+:integer/status_bar_notification_info_maxnum = 0x7f080000
+com.tech.iaiindia
+:id/info = 0x7f070036
+com.tech.iaiindia
+:id/tag_on_receive_content_listener = 0x7f07004b
+com.tech.iaiindia
+:styleable/GradientColor = 0x7f0d0008
+com.tech.iaiindia
+:id/tag_accessibility_pane_title = 0x7f070049
+com.tech.iaiindia
+:dimen/notification_right_side_padding_top = 0x7f050010
+com.tech.iaiindia
+:layout/ime_secondary_split_test_activity = 0x7f090002
+com.tech.iaiindia
+:id/tag_accessibility_clickable_spans = 0x7f070047
+com.tech.iaiindia
+:id/right_icon = 0x7f070042
+com.tech.iaiindia
+:id/report_drawn = 0x7f070041
+com.tech.iaiindia
+:attr/fontProviderQuery = 0x7f03000f
+com.tech.iaiindia
+:id/notification_main_column_container = 0x7f070040
+com.tech.iaiindia
+:id/edit_text_id = 0x7f070030
+com.tech.iaiindia
+:id/notification_background = 0x7f07003e
+com.tech.iaiindia
+:id/ltr = 0x7f07003b
+com.tech.iaiindia
+:styleable/ColorStateListItem = 0x7f0d0003
+com.tech.iaiindia
+:id/icon_group = 0x7f070035
+com.tech.iaiindia
+:style/Widget.Compat.NotificationActionContainer = 0x7f0c0007
+com.tech.iaiindia
+:layout/ime_base_split_test_activity = 0x7f090001
+com.tech.iaiindia
+:id/icon = 0x7f070034
+com.tech.iaiindia
+:id/hide_ime_id = 0x7f070033
+com.tech.iaiindia
+:id/chronometer = 0x7f07002e
+com.tech.iaiindia
+:id/title = 0x7f070056
+com.tech.iaiindia
+:id/androidx_window_activity_scope = 0x7f07002a
+com.tech.iaiindia
+:id/alwaysDisallow = 0x7f070029
+com.tech.iaiindia
+:id/always = 0x7f070027
+com.tech.iaiindia
+:id/adjacent = 0x7f070026
+com.tech.iaiindia
+:id/italic = 0x7f070037
+com.tech.iaiindia
+:id/accessibility_custom_action_9 = 0x7f070020
+com.tech.iaiindia
+:id/accessibility_custom_action_6 = 0x7f07001d
+com.tech.iaiindia
+:layout/notification_action = 0x7f090003
+com.tech.iaiindia
+:id/accessibility_custom_action_5 = 0x7f07001c
+com.tech.iaiindia
+:id/time = 0x7f070055
+com.tech.iaiindia
+:attr/splitMaxAspectRatioInPortrait = 0x7f03001e
+com.tech.iaiindia
+:id/forever = 0x7f070031
+com.tech.iaiindia
+:id/accessibility_custom_action_31 = 0x7f07001a
+com.tech.iaiindia
+:id/tag_window_insets_animation_callback = 0x7f070052
+com.tech.iaiindia
+:id/accessibility_custom_action_30 = 0x7f070019
+com.tech.iaiindia
+:attr/fontProviderFetchTimeout = 0x7f03000d
+com.tech.iaiindia
+:anim/fragment_fast_out_extra_slow_in = 0x7f010000
+com.tech.iaiindia
+:id/accessibility_custom_action_29 = 0x7f070017
+com.tech.iaiindia
+:id/accessibility_custom_action_28 = 0x7f070016
+com.tech.iaiindia
+:id/accessibility_custom_action_27 = 0x7f070015
+com.tech.iaiindia
+:id/accessibility_custom_action_21 = 0x7f07000f
+com.tech.iaiindia
+:id/accessibility_custom_action_26 = 0x7f070014
+com.tech.iaiindia
+:id/accessibility_custom_action_24 = 0x7f070012
+com.tech.iaiindia
+:layout/notification_template_part_time = 0x7f090008
+com.tech.iaiindia
+:id/accessibility_custom_action_23 = 0x7f070011
+com.tech.iaiindia
+:id/view_tree_lifecycle_owner = 0x7f070058
+com.tech.iaiindia
+:id/accessibility_custom_action_20 = 0x7f07000e
+com.tech.iaiindia
+:styleable/ActivityRule = 0x7f0d0001
+com.tech.iaiindia
+:style/TextAppearance.Compat.Notification = 0x7f0c0002
+com.tech.iaiindia
+:id/accessibility_custom_action_2 = 0x7f07000d
+com.tech.iaiindia
+:id/accessibility_custom_action_18 = 0x7f07000b
+com.tech.iaiindia
+:id/accessibility_custom_action_17 = 0x7f07000a
+com.tech.iaiindia
+:id/accessibility_custom_action_15 = 0x7f070008
+com.tech.iaiindia
+:id/accessibility_custom_action_14 = 0x7f070007
+com.tech.iaiindia
+:attr/splitMaxAspectRatioInLandscape = 0x7f03001d
+com.tech.iaiindia
+:id/accessibility_action_clickable_span = 0x7f070000
+com.tech.iaiindia
+:dimen/notification_content_margin_start = 0x7f05000a
+com.tech.iaiindia
+:drawable/notification_template_icon_bg = 0x7f060010
+com.tech.iaiindia
+:drawable/notification_icon_background = 0x7f06000e
+com.tech.iaiindia
+:drawable/notification_bg_normal = 0x7f06000c
+com.tech.iaiindia
+:animator/fragment_open_enter = 0x7f020004
+com.tech.iaiindia
+:drawable/notification_bg_low_pressed = 0x7f06000b
+com.tech.iaiindia
+:id/accessibility_custom_action_19 = 0x7f07000c
+com.tech.iaiindia
+:dimen/notification_small_icon_background_padding = 0x7f050011
+com.tech.iaiindia
+:drawable/notification_bg_low_normal = 0x7f06000a
+com.tech.iaiindia
+:id/accessibility_custom_action_12 = 0x7f070005
+com.tech.iaiindia
+:attr/clearTop = 0x7f030005
+com.tech.iaiindia
+:drawable/notification_bg_low = 0x7f060009
+com.tech.iaiindia
+:animator/fragment_open_exit = 0x7f020005
+com.tech.iaiindia
+:id/line1 = 0x7f070038
+com.tech.iaiindia
+:drawable/ic_call_answer_video_low = 0x7f060003
+com.tech.iaiindia
+:id/accessibility_custom_action_16 = 0x7f070009
+com.tech.iaiindia
+:drawable/ic_call_answer_video = 0x7f060002
+com.tech.iaiindia
+:id/right_side = 0x7f070043
+com.tech.iaiindia
+:drawable/ic_call_answer_low = 0x7f060001
+com.tech.iaiindia
+:drawable/notification_bg = 0x7f060008
+com.tech.iaiindia
+:dimen/notification_top_pad = 0x7f050014
+com.tech.iaiindia
+:id/never = 0x7f07003c
+com.tech.iaiindia
+:styleable/SplitPairFilter = 0x7f0d000a
+com.tech.iaiindia
+:dimen/notification_subtext_size = 0x7f050013
+com.tech.iaiindia
+:drawable/notification_oversize_large_icon_bg = 0x7f06000f
+com.tech.iaiindia
+:id/locale = 0x7f07003a
+com.tech.iaiindia
+:dimen/notification_small_icon_size_as_large = 0x7f050012
+com.tech.iaiindia
+:id/action_container = 0x7f070021
+com.tech.iaiindia
+:id/actions = 0x7f070025
+com.tech.iaiindia
+:dimen/compat_notification_large_icon_max_height = 0x7f050005
+com.tech.iaiindia
+:id/rtl = 0x7f070044
+com.tech.iaiindia
+:attr/font = 0x7f030009
+com.tech.iaiindia
+:attr/queryPatterns = 0x7f030018
+com.tech.iaiindia
+:dimen/notification_media_narrow_margin = 0x7f05000e
+com.tech.iaiindia
+:attr/secondaryActivityName = 0x7f03001a
+com.tech.iaiindia
+:attr/alwaysExpand = 0x7f030003
+com.tech.iaiindia
+:drawable/notification_bg_normal_pressed = 0x7f06000d
+com.tech.iaiindia
+:dimen/notification_large_icon_width = 0x7f05000c
+com.tech.iaiindia
+:string/androidx_startup = 0x7f0b0000
+com.tech.iaiindia
+:animator/fragment_fade_exit = 0x7f020003
+com.tech.iaiindia
+:id/accessibility_custom_action_0 = 0x7f070001
+com.tech.iaiindia
+:dimen/notification_big_circle_margin = 0x7f050009
+com.tech.iaiindia
+:attr/ttcIndex = 0x7f030025
+com.tech.iaiindia
+:drawable/ic_call_answer = 0x7f060000
+com.tech.iaiindia
+:styleable/FragmentContainerView = 0x7f0d0007
+com.tech.iaiindia
+:color/androidx_core_ripple_material_light = 0x7f040000
+com.tech.iaiindia
+:dimen/notification_action_text_size = 0x7f050008
+com.tech.iaiindia
+:dimen/compat_button_inset_horizontal_material = 0x7f050000
+com.tech.iaiindia
+:dimen/notification_main_column_padding_top = 0x7f05000d
+com.tech.iaiindia
+:color/androidx_core_secondary_text_default_material_light = 0x7f040001
+com.tech.iaiindia
+:dimen/compat_control_corner_material = 0x7f050004
+com.tech.iaiindia
+:styleable/FontFamily = 0x7f0d0004
+com.tech.iaiindia
+:string/call_notification_incoming_text = 0x7f0b0005
+com.tech.iaiindia
+:attr/primaryActivityName = 0x7f030017
+com.tech.iaiindia
+:dimen/compat_button_padding_vertical_material = 0x7f050003
+com.tech.iaiindia
+:attr/nestedScrollViewStyle = 0x7f030015
+com.tech.iaiindia
+:dimen/compat_button_padding_horizontal_material = 0x7f050002
+com.tech.iaiindia
+:id/dialog_button = 0x7f07002f
+com.tech.iaiindia
+:attr/shortcutMatchRequired = 0x7f03001b
+com.tech.iaiindia
+:attr/fontStyle = 0x7f030011
+com.tech.iaiindia
+:attr/tag = 0x7f030024
+com.tech.iaiindia
+:drawable/notification_tile_bg = 0x7f060012
+com.tech.iaiindia
+:drawable/ic_call_decline = 0x7f060004
+com.tech.iaiindia
+:color/notification_action_color_filter = 0x7f040004
+com.tech.iaiindia
+:mipmap/ic_launcher = 0x7f0a0000
+com.tech.iaiindia
+:id/fragment_container_view_tag = 0x7f070032
+com.tech.iaiindia
+:color/call_notification_answer_color = 0x7f040002
+com.tech.iaiindia
+:id/accessibility_custom_action_22 = 0x7f070010
+com.tech.iaiindia
+:id/tag_unhandled_key_listeners = 0x7f070051
+com.tech.iaiindia
+:drawable/ic_call_decline_low = 0x7f060005
+com.tech.iaiindia
+:id/accessibility_custom_action_7 = 0x7f07001e
+com.tech.iaiindia
+:dimen/compat_button_inset_vertical_material = 0x7f050001
+com.tech.iaiindia
+:color/call_notification_decline_color = 0x7f040003
+com.tech.iaiindia
+:drawable/notification_template_icon_low_bg = 0x7f060011
+com.tech.iaiindia
+:attr/secondaryActivityAction = 0x7f030019
+com.tech.iaiindia
+:attr/splitMinWidthDp = 0x7f030021
+com.tech.iaiindia
+:id/topToBottom = 0x7f070057
+com.tech.iaiindia
+:id/tag_state_description = 0x7f07004e
+com.tech.iaiindia
+:id/action_image = 0x7f070023
+com.tech.iaiindia
+:attr/splitMinSmallestWidthDp = 0x7f030020
+com.tech.iaiindia
+:animator/fragment_close_enter = 0x7f020000
+com.tech.iaiindia
+:string/call_notification_decline_action = 0x7f0b0003
+com.tech.iaiindia
+:id/action_text = 0x7f070024
+com.tech.iaiindia
+:attr/splitMinHeightDp = 0x7f03001f
+com.tech.iaiindia
+:attr/splitLayoutDirection = 0x7f03001c
+com.tech.iaiindia
+:id/action_divider = 0x7f070022
+com.tech.iaiindia
+:id/tag_accessibility_heading = 0x7f070048
+com.tech.iaiindia
+:id/accessibility_custom_action_10 = 0x7f070003
+com.tech.iaiindia
+:attr/alpha = 0x7f030002
+com.tech.iaiindia
+:id/tag_screen_reader_focusable = 0x7f07004d
+com.tech.iaiindia
+:attr/placeholderActivityName = 0x7f030016
+com.tech.iaiindia
+:id/accessibility_custom_action_4 = 0x7f07001b
+com.tech.iaiindia
+:attr/finishPrimaryWithSecondary = 0x7f030007
+com.tech.iaiindia
+:style/TextAppearance.Compat.Notification.Title = 0x7f0c0006
+com.tech.iaiindia
+:id/alwaysAllow = 0x7f070028
+com.tech.iaiindia
+:attr/fontVariationSettings = 0x7f030012
+com.tech.iaiindia
+:attr/fontProviderSystemFontFamily = 0x7f030010
+com.tech.iaiindia
+:id/line3 = 0x7f070039
+com.tech.iaiindia
+:id/async = 0x7f07002b
+com.tech.iaiindia
+:attr/splitRatio = 0x7f030022
+com.tech.iaiindia
+:drawable/notify_panel_notification_icon_bg = 0x7f060013
+com.tech.iaiindia
+:attr/activityAction = 0x7f030000
+com.tech.iaiindia
+:id/blocking = 0x7f07002c
+com.tech.iaiindia
+:color/notification_icon_bg_color = 0x7f040005
+com.tech.iaiindia
+:id/notification_main_column = 0x7f07003f
+com.tech.iaiindia
+:attr/fontProviderCerts = 0x7f03000b
+com.tech.iaiindia
+:id/tag_on_apply_window_listener = 0x7f07004a
+com.tech.iaiindia
+:attr/fontProviderPackage = 0x7f03000e
+com.tech.iaiindia
+:dimen/notification_large_icon_height = 0x7f05000b
+com.tech.iaiindia
+:attr/fontWeight = 0x7f030013
+com.tech.iaiindia
+:attr/finishPrimaryWithPlaceholder = 0x7f030006
+com.tech.iaiindia
+:dimen/notification_right_icon_size = 0x7f05000f
+com.tech.iaiindia
+:id/bottomToTop = 0x7f07002d
+com.tech.iaiindia
+:id/accessibility_custom_action_8 = 0x7f07001f
+com.tech.iaiindia
+:attr/fontProviderFetchStrategy = 0x7f03000c
+com.tech.iaiindia
+:attr/fontProviderAuthority = 0x7f03000a
+com.tech.iaiindia
+:attr/stickyPlaceholder = 0x7f030023
+com.tech.iaiindia
+:layout/notification_action_tombstone = 0x7f090004
+com.tech.iaiindia
+:attr/finishSecondaryWithPrimary = 0x7f030008
+com.tech.iaiindia
+:attr/activityName = 0x7f030001
+com.tech.iaiindia
+:drawable/launch_background = 0x7f060006
+com.tech.iaiindia
+:attr/animationBackgroundColor = 0x7f030004
+com.tech.iaiindia
+:id/normal = 0x7f07003d
+com.tech.iaiindia
+:dimen/notification_top_pad_large_text = 0x7f050015
+com.tech.iaiindia
+:styleable/Fragment = 0x7f0d0006
+com.tech.iaiindia
+:animator/fragment_close_exit = 0x7f020001
+com.tech.iaiindia
+:id/accessibility_custom_action_3 = 0x7f070018
+com.tech.iaiindia
+:dimen/compat_notification_large_icon_max_width = 0x7f050006
+com.tech.iaiindia
+:id/special_effects_controller_view_tag = 0x7f070045
+com.tech.iaiindia
+:id/accessibility_custom_action_13 = 0x7f070006
+com.tech.iaiindia
+:drawable/notification_action_background = 0x7f060007
